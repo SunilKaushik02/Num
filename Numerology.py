@@ -85,7 +85,7 @@ try:
     
     st.write(f'''According to widely used **Chaldean numerology** value is: {c_count} with final value {sum([int(x) for x in str(sum([int(x) for x in str(c_count)]))])} \n and for *Pythogorean numerology* value is: {count} with final value {sum([int(x) for x in str(sum([int(x) for x in str(count)]))])}''')
     st.write('''**How to use**: 
-             Please check the final value above and compare it with your *birth date* eg: if you birth date is 3 and final value above show 3 then your name might push you ahead in life 
+             Please check the final value above and compare it with your *birth date* eg: if you birth date is 3 and final value above show 3 then your name might assist you in reaching greater heights. 
              *Please consult a numerologist for further questions as this is a nuanced topic and this insight is just a drop in the ocean*''') 
     
 except:
