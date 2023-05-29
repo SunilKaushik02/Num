@@ -67,7 +67,7 @@ chal_dict={'A':1,
     
     
 try:
-    name=st.text_input("Please enter name to convert to numerology: ")
+    name=st.text_input("Please enter name (in any case) to convert to numerology: ")
     name=name.replace(' ','').upper()
     
     count=0
