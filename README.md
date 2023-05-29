@@ -1,0 +1,2 @@
+# Num
+Numerology calculator
